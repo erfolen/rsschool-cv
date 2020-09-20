@@ -1,1 +1,2 @@
-https://erfolen.github.io/rsschool-cv/cv
+https://erfolen.github.io/rsschool-cv/index
+
