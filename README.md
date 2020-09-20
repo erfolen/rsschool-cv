@@ -1,1 +1,1 @@
-https://erfolen.github.io/rsschool-cv-html/cv
+https://erfolen.github.io/rsschool-cv/cv
