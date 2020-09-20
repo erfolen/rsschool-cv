@@ -1,0 +1,15 @@
+h1 {
+    font-size: 45px;
+}
+.block {
+    width: 100%;
+}
+div {
+    width: 66%;
+}
+.block {
+    display: flex;
+}
+h2 {
+    width: 33%;
+}
